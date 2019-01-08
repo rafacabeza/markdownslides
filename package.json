@@ -1,0 +1,14 @@
+{
+  "name": "markdownslides",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "reveal-md slides.md --port 1945"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "reveal-md": "^2.4.1"
+  }
+}
