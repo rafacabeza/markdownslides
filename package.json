@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "reveal-md slides.md --port 1945"
+    "start": "reveal-md slides.md --port 1945",
+    "web": "reveal-md slides.md --static"
   },
   "author": "",
   "license": "ISC",
